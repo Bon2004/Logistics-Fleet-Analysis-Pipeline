@@ -1,5 +1,5 @@
 # 🚚 Military Fleet Logistics & ESG Data Pipeline
-
+![Executive Dashboard](Camp_Lemonnier_Dashboard.png)
 ## 📋 Overview
 This repository contains an automated Data Analytics (ETL) pipeline engineered to process raw logistics data for leased vehicle fleets (Camp Lemonnier). It extracts raw lease data, transforms it using Python to aggregate financial costs, and calculates environmental impact based on EPA emission standards.
 
