@@ -11,7 +11,7 @@ This repository contains an automated Data Analytics (ETL) pipeline engineered t
 * **Language:** Python 3.x
 * **Libraries:** Pandas (Data manipulation, ETL processing)
 * **Environment:** Jupyter Notebook / VS Code (.venv)
-* **Visualization:** Tableau Public (Dashboards pending in Phase 3)
+* **Visualization:** Tableau Public 
 
 ## 🗂️ File Structure
 * `camp_lemonnier.ipynb`: The core Python script containing the data cleaning, grouping, and ESG calculation logic.
@@ -22,4 +22,4 @@ This repository contains an automated Data Analytics (ETL) pipeline engineered t
 ## 🚀 Impact
 By automating this pipeline, base logistics teams can instantly generate monthly cost and carbon footprint reports without manual spreadsheet data entry, ensuring accuracy and rapid strategic decision-making.
 
-*(Note: Executive Data Visualizations will be added to this repository shortly).*
+
